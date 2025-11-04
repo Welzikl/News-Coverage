@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>UK Legal + Nationals — OPML (Your List)</title>
+  </head>
+  <body>
+    <outline text="UK Nationals" title="UK Nationals">
+      <outline text="BBC News (Headlines)" title="BBC News (Headlines)" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news" />
+      <outline text="Sky News (Home)" title="Sky News (Home)" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/home.xml" htmlUrl="https://news.sky.com" />
+      <outline text="The Guardian (UK)" title="The Guardian (UK)" type="rss" xmlUrl="https://www.theguardian.com/uk/rss" htmlUrl="https://www.theguardian.com/uk" />
+      <outline text="The Independent (UK)" title="The Independent (UK)" type="rss" xmlUrl="https://www.independent.co.uk/news/uk/rss" htmlUrl="https://www.independent.co.uk/news/uk/" />
+      <outline text="The Telegraph (Top stories)" title="The Telegraph (Top stories)" type="rss" xmlUrl="https://www.telegraph.co.uk/rss.xml" htmlUrl="https://www.telegraph.co.uk" />
+      <outline text="Financial Times (News feed)" title="Financial Times (News feed)" type="rss" xmlUrl="https://www.ft.com/news-feed?format=rss" htmlUrl="https://www.ft.com" />
+      <outline text="Daily Express (News)" title="Daily Express (News)" type="rss" xmlUrl="https://www.express.co.uk/posts/rss/1/news" htmlUrl="https://www.express.co.uk/news" />
+      <outline text="Daily Mail (All articles)" title="Daily Mail (All articles)" type="rss" xmlUrl="https://www.dailymail.co.uk/articles.rss" htmlUrl="https://www.dailymail.co.uk" />
+      <!-- Some publishers below don’t expose a consistent public RSS. Added as links for reference. -->
+      <outline text="The i paper" title="The i paper" type="link" htmlUrl="https://inews.co.uk" />
+      <outline text="The Times" title="The Times" type="link" htmlUrl="https://www.thetimes.co.uk" />
+      <outline text="Daily Mirror" title="Daily Mirror" type="link" htmlUrl="https://www.mirror.co.uk" />
+    </outline>
+
+    <outline text="Legal / Law Trades" title="Legal / Law Trades">
+      <outline text="Law Society Gazette" title="Law Society Gazette" type="rss" xmlUrl="https://www.lawgazette.co.uk/rss" htmlUrl="https://www.lawgazette.co.uk" />
+      <outline text="The Lawyer" title="The Lawyer" type="rss" xmlUrl="https://www.thelawyer.com/feed/" htmlUrl="https://www.thelawyer.com" />
+      <outline text="Legal Business" title="Legal Business" type="rss" xmlUrl="https://www.legalbusiness.co.uk/feed/" htmlUrl="https://www.legalbusiness.co.uk" />
+      <outline text="Solicitors Journal" title="Solicitors Journal" type="rss" xmlUrl="https://www.solicitorsjournal.com/rss.xml" htmlUrl="https://www.solicitorsjournal.com" />
+      <outline text="Law.com UK &amp; Ireland (All content)" title="Law.com UK &amp; Ireland (All content)" type="rss" xmlUrl="https://www.law.com/uk-ireland/feeds/all-content/" htmlUrl="https://www.law.com/uk-ireland/" />
+      <outline text="New Law Journal" title="New Law Journal" type="rss" xmlUrl="https://www.newlawjournal.co.uk/rss.xml" htmlUrl="https://www.newlawjournal.co.uk" />
+      <outline text="Legal Futures" title="Legal Futures" type="rss" xmlUrl="https://www.legalfutures.co.uk/feed" htmlUrl="https://www.legalfutures.co.uk" />
+      <!-- The Legal Diary primarily publishes as a blog/newsletter. Add/replace with its feed URL if you have one. -->
+      <outline text="The Legal Diary (site)" title="The Legal Diary (site)" type="link" htmlUrl="https://legaldiary.blog/" />
+    </outline>
+  </body>
+</opml>
